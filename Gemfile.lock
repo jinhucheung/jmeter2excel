@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (11.1.1)
+    fast_excel (0.2.6)
+      ffi (> 1.9, < 2)
+    ffi (1.12.2)
+    mini_portile2 (2.4.0)
+    nokogiri (1.10.9)
+      mini_portile2 (~> 2.4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  fast_excel
+  nokogiri
+
+BUNDLED WITH
+   2.0.2

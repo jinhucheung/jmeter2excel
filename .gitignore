@@ -1,0 +1,3 @@
+outs/*
+!outs/.keep
+.byebug_history
