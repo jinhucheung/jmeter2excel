@@ -1,13 +1,15 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    byebug (11.1.1)
-    fast_excel (0.2.6)
+    byebug (11.1.3)
+    fast_excel (0.4.0)
       ffi (> 1.9, < 2)
-    ffi (1.12.2)
-    mini_portile2 (2.4.0)
-    nokogiri (1.10.9)
-      mini_portile2 (~> 2.4.0)
+    ffi (1.15.5)
+    mini_portile2 (2.8.0)
+    nokogiri (1.13.9)
+      mini_portile2 (~> 2.8.0)
+      racc (~> 1.4)
+    racc (1.6.0)
 
 PLATFORMS
   ruby
